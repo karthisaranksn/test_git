@@ -1,0 +1,1 @@
+gonna commit twice 1 with normal commit and other one with amend for adding a file to the previous commit
